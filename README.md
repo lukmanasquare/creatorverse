@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://drive.google.com/uc?export=view&id=1O4TSVpdJzKTiLb7e3baupqm82z41OSzR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**https://drive.google.com/uc?export=view&id=1O4TSVpdJzKTiLb7e3baupqm82z41OSzR**
 
 GIF created with **ScreenToGif**
 
