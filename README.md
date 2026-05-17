@@ -6,6 +6,8 @@ About this web app: **Creatorverse is a React and Supabase web app that allows u
 
 Time spent: **6-8hrs** hours
 
+Project Live Link: **https://wonderful-kleicha-2edf31.netlify.app/**
+
 ## Required Features
 
 The following **required** functionality is completed:
